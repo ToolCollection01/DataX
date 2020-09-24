@@ -64,9 +64,9 @@ DataX目前已经有了比较全面的插件体系，主流的RDBMS数据库、N
 
 # 项目成员
 
-核心Contributions:  光戈、一斅、祁然、云时
+核心Contributions: 言柏 、枕水、秋奇、青砾、一斅、云时
 
-感谢天烬、巴真、静行对DataX做出的贡献。
+感谢天烬、光戈、祁然、巴真、静行对DataX做出的贡献。
 
 # License
 
@@ -108,7 +108,20 @@ This software is free to use under the Apache License [Apache license](https://g
     8. 对高并发、高稳定可用性、高性能、大数据处理有过实际项目及产品经验者优先考虑；
     9. 有大数据产品、云产品、中间件技术解决方案者优先考虑。
 ````
-钉钉用户群：23169395
+钉钉用户群：
 
+- DataX开源用户交流群
+    - <img src="https://github.com/alibaba/DataX/blob/master/images/DataX%E5%BC%80%E6%BA%90%E7%94%A8%E6%88%B7%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg" width="20%" height="20%">
 
+- DataX开源用户交流群2
+    - <img src="https://github.com/alibaba/DataX/blob/master/images/DataX%E5%BC%80%E6%BA%90%E7%94%A8%E6%88%B7%E4%BA%A4%E6%B5%81%E7%BE%A42.jpg" width="20%" height="20%">
+
+- DataX开源用户交流群3
+    - <img src="https://github.com/alibaba/DataX/blob/master/images/DataX%E5%BC%80%E6%BA%90%E7%94%A8%E6%88%B7%E4%BA%A4%E6%B5%81%E7%BE%A43.jpg" width="20%" height="20%">
+
+- DataX开源用户交流群4
+    - <img src="https://github.com/alibaba/DataX/blob/master/images/DataX%E5%BC%80%E6%BA%90%E7%94%A8%E6%88%B7%E4%BA%A4%E6%B5%81%E7%BE%A44.jpg" width="20%" height="20%">
+
+- DataX开源用户交流群5
+    - <img src="https://github.com/alibaba/DataX/blob/master/images/DataX%E5%BC%80%E6%BA%90%E7%94%A8%E6%88%B7%E4%BA%A4%E6%B5%81%E7%BE%A45.jpg" width="20%" height="20%">
 
